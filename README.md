@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gdelsolra Gabriela Pastor
 - 👀 I’m interested in ... How Machine learning could have an essencial role in the insurance industry.
 - 🌱 I’m currently learning ...CS250 and Linear Algebra
-- 💞️ I’m looking to collaborate on ... the insurance world as an Actuary.
+- 💞️ I’m looking to collaborate on ... the insurance world as an Actuary and a Software Developer.
 - 📫 How to reach me ... gdelsolra@gmail.com 
 
 <!---
