@@ -1,6 +1,6 @@
 -👋 Hi, I’m @gdelsolra Gabriela Pastor
 
--👀 I’m interested in exploring how data-driven decisions can transform business strategies—specifically by optimizing SEO and building an impactful online presence that drives client success.
+-👀 CS Student | AI Enthusiast | Building thoughtful tech to make life better | Learning something new every day
 
 -🌱 I’m currently learning data structure algorithms and full stack development with MEAN.
 
